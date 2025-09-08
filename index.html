@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>Made for you 💌</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="bg-layer"></div>
+
+  <!-- Opening screen -->
+  <div class="gate" id="gate">
+    <div class="card glass">
+      <h1>Hey, I made this for you 💌</h1>
+      <p class="sub">Enter your name so this page feels just for you</p>
+      <form id="nameForm" class="name-form" autocomplete="off">
+        <input id="nameInput" name="name" placeholder="enter your name here " maxlength="24" required />
+        <button class="btn start" type="submit">Start ✨</button>
+      </form>
+      <p class="small">Tip: your name only stays on this page.</p>
+    </div>
+  </div>
+
+  <!-- App -->
+  <main id="app" class="app" hidden>
+    <header class="app-header">
+      <div class="title">Made for <span id="nameBadge"></span></div>
+      <button id="restart" class="btn ghost" title="Restart">Restart⟲</button>
+    </header>
+
+    <section id="chat" class="chat" aria-live="polite"></section>
+
+    <div class="controls">
+      <button id="revealBtn" class="btn primary">Tap to reveal</button>
+    </div>
+
+    <a id="whatsBtn" class="btn whatsapp" href="#" target="_blank" rel="noopener" hidden>💬 Reply on WhatsApp</a>
+
+    <div id="ps" class="ps" hidden></div>
+  </main>
+
+  <canvas id="confetti"></canvas>
+
+  <script src="script.js"></script>
+</body>
+</html>
