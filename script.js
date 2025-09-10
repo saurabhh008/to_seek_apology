@@ -1,21 +1,15 @@
 (() => {
   const WA_NUMBER = "919548275350";
   const deepMessages = [
-    "Hey {name}… pata hai, 2 saal ho gaye us baat ko… par ek cheez hai jo abhi tak dil mein baithi hui hai.",
-  "Jo misunderstandings hui thi… unmein shayad meri wajah se tujhe hurt feel hua. Uske liye mujhe sach-mein afsos hai.",
-  "Kabhi intention tujhe hurt karne ka nahi tha, par shayad mere words/actions galat samajh liye gaye.",
-  "Itna waqt beetne ke baad bhi ek hi baat kehna chahta hoon — I’m genuinely sorry 🙏",
-  " respect hamesha thi, hamesha rahegi… aur shayad isi respect ki wajah se yeh sorry kehna zaroori laga.",
-  "Sach kahun to mujhe khud clear nahi hai ki exactly kya galat hua tha… bas itna samajhta hoon ki ek din sab kuch suddenly worse ho gaya.",
-  "Aur us din se ek guilt aur confusion leke chal raha hoon.",
-  "I just want to say sorry if I ever hurt you in any way.",
-  "Mujhe pata hai shayad late ho gaya hoon… par dil se bolna tha.",
-  "Ho sake to maaf kar dena, aur ek baar baat kar lenge to sab clear ho jayega.",
-  "jo bi hua usme mera involvement tkk ni tha yr meto boards k liye pdne m hi lga tha 😂",
-  "or ekbar khudse puchleti ki kya me esa shii m soch skta hu tere bare m😭😭",
-  "itne time se to sb thik hi tha n kbi b mene esa kuch kia jisse tujhe uncomfortable ya hurt feel ho",
-  "favours jo tere liye kiye wo ginwaa b ni skta itne the and those all was for you not for ki i get you in return yrr🙂",
-  "Really really sorry, {name} ❤️"
+    "Hey {name}… pata hai, i messed up things but cover up krne k liye a small present for you tap to reveal p click krte rehne for the msg ❤️  .",
+  "It’s strange how some voices feel like home",
+  "even when they’ve only traveled through wires and waves",
+  "Yours lingers — not as an echo, but as a spark",
+  "turning ordinary moments into something worth keeping",
+  "We may not have shared the same streets or skies yet",
+  "but I’ve learned that connection isn’t measured in miles",
+  "So, how about we trade a little more of our worlds —",
+  "a call, a story, maybe even a plan to meet someday?"
   
   ];
 
