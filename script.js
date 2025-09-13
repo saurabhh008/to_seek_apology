@@ -169,7 +169,7 @@
       await sleep(800);
       // show whatsapp after delay
       await sleep(1600);
-      const prefill = `Hey  👋 i accept your apology ! ' 
+      const prefill = `Hey  👋  ! ' 
       `;
       whatsBtn.href = `https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(
         prefill
