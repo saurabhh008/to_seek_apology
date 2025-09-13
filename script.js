@@ -1,15 +1,30 @@
 (() => {
   const WA_NUMBER = "919548275350";
   const deepMessages = [
-    "Hey {name}… pata hai, i messed up things but cover up krne k liye a small present for you tap to reveal p click krte rehne for the msg ❤️  .",
-  "It’s strange how some voices feel like home",
-  "even when they’ve only traveled through wires and waves",
-  "Yours lingers — not as an echo, but as a spark",
-  "turning ordinary moments into something worth keeping",
-  "We may not have shared the same streets or skies yet",
-  "but I’ve learned that connection isn’t measured in miles",
-  "So, how about we trade a little more of our worlds —",
-  "a call, a story, maybe even a plan to meet someday?"
+    "Hey {name}… pata hai, i messed up things but genuinely not intended so ❤️  .",
+    "I saw your profile. Just one glance—and I smiled.",
+
+"You looked cute. Not just pretty—something deeper.",
+
+"I wanted to say hi. I wanted to say more.",
+
+"But I messed up. Said the wrong things. dil se sorry for that 💌😊",
+    "I didn’t plan to say anything. But here I am.",
+
+"You seem like someone worth knowing. Not just scrolling past.",
+
+"So here’s me, showing up with words instead of small talk.",
+
+"If you’re into good conversations and unexpected connections…",
+
+"I’d like to be the reason you smile at your screen.",
+
+"No cheesy lines. Just genuine interest.",
+
+"Let’s skip the ordinary. I think we could be something extraordinary.",
+
+"If you’re curious too… maybe this is where it begins.",
+    "Let’s turn this little glitch into a great story. 🎉"
   
   ];
 
